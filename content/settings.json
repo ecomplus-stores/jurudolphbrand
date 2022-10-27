@@ -1,6 +1,5 @@
 {
   "domain": "www.jurudolphbrand.com.br",
-  "repository": "ecomplus-stores/jurudolphbrand",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
@@ -8,7 +7,8 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "repository": "ecomplus-stores/jurudolphbrand",
+  "logo": "/img/uploads/logo-ju-rudolph_prancheta-1.png",
   "name": "jurudolphbrand",
   "short_name": "jurudolphbrand",
   "lang": "pt_br",

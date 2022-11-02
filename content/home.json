@@ -43,6 +43,12 @@
           "mobile_img": "/img/uploads/casaco-2.jpg",
           "link": "https://www.jurudolphbrand.com.br/casaco",
           "alt": "https://www.jurudolphbrand.com.br/casaco"
+        },
+        {
+          "img": "/img/uploads/prancheta-2.jpg",
+          "mobile_img": "/img/uploads/prancheta-2.jpg",
+          "link": "https://www.jurudolphbrand.com.br/vestido",
+          "alt": "https://www.jurudolphbrand.com.br/vestido"
         }
       ]
     },

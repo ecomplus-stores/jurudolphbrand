@@ -12,6 +12,12 @@
           "end": "",
           "img": "/img/uploads/banner-1.jpg",
           "mobile_img": "/img/uploads/banner-1.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/prancheta-2.png",
+          "mobile_img": "/img/uploads/prancheta-2.png"
         }
       ]
     },
@@ -33,6 +39,19 @@
       "type": "page-title",
       "title": "JU RUDOLPH BRAND",
       "description": ""
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 4000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/prancheta-2.png",
+          "mobile_img": "/img/uploads/prancheta-2.png"
+        }
+      ]
     }
   ]
 }

@@ -41,6 +41,15 @@
       "limit": 4,
       "page": 1,
       "collection_id": "6176ffcb9bb4ce40f93ecf90:categories:Conjunto:/conjunto"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-casaco.jpg",
+          "mobile_img": "/img/uploads/banner-casaco.jpg"
+        }
+      ]
     }
   ]
 }

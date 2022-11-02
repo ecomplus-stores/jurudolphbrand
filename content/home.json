@@ -14,10 +14,17 @@
           "mobile_img": "/img/uploads/banner-1.jpg"
         },
         {
-          "start": "2022-11-02T04:30:29.962Z",
+          "start": "2022-11-02T18:54:59.802Z",
           "end": "",
-          "img": "/img/uploads/prancheta-2.png",
-          "mobile_img": "/img/uploads/prancheta-2.png"
+          "img": "/img/uploads/banner2.jpg",
+          "mobile_img": "/img/uploads/banner2.jpg",
+          "link": "https://www.jurudolphbrand.com.br/calca-jeans-bordada-silvia"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner3.jpg",
+          "mobile_img": "/img/uploads/banner3.jpg"
         }
       ]
     },

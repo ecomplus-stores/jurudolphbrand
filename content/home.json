@@ -47,7 +47,8 @@
       "banners": [
         {
           "img": "/img/uploads/banner-casaco.jpg",
-          "mobile_img": "/img/uploads/banner-casaco.jpg"
+          "mobile_img": "/img/uploads/banner-casaco.jpg",
+          "link": "https://www.jurudolphbrand.com.br/casaco"
         }
       ]
     }

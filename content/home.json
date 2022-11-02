@@ -24,7 +24,9 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner3.jpg",
-          "mobile_img": "/img/uploads/banner3.jpg"
+          "mobile_img": "/img/uploads/banner3.jpg",
+          "link": "https://www.jurudolphbrand.com.br/blusa-cropped-livia-verde",
+          "alt": "https://www.jurudolphbrand.com.br/blusa-cropped-livia-verde"
         }
       ]
     },

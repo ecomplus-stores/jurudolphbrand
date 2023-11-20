@@ -8,6 +8,12 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/52ba5a7a-9c39-4cc8-9911-6a3a53b4e000.png",
+          "mobile_img": "/img/uploads/52ba5a7a-9c39-4cc8-9911-6a3a53b4e000.png"
+        },
+        {
           "start": "2022-11-02T04:24:41.743Z",
           "end": "",
           "img": "/img/uploads/beige-aesthetic-fashion-clothing-collection-medium-banner-4.jpg",
@@ -29,12 +35,6 @@
           "mobile_img": "/img/uploads/banner3.jpg",
           "link": "https://www.jurudolphbrand.com.br/blusa-cropped-livia-verde",
           "alt": "https://www.jurudolphbrand.com.br/blusa-cropped-livia-verde"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/52ba5a7a-9c39-4cc8-9911-6a3a53b4e000.png",
-          "mobile_img": "/img/uploads/52ba5a7a-9c39-4cc8-9911-6a3a53b4e000.png"
         }
       ]
     },

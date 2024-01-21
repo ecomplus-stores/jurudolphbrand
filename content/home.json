@@ -10,13 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "https://www.canva.com/design/DAF6j65sYoQ/ciKMuXFj4v2kHbQYu2xteg/edit?utm_content=DAF6j65sYoQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
-          "link": "https://wa.me/message/4NR3S5HTO5YYI1",
-          "mobile_img": ""
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/217128a6-f8a1-464b-a109-02bda6f153ed.jpg",
           "mobile_img": "/img/uploads/217128a6-f8a1-464b-a109-02bda6f153ed.jpg",
           "link": "https://www.jurudolphbrand.com.br/vestido-slip-dress-lavinia"
@@ -43,6 +36,13 @@
           "mobile_img": "/img/uploads/banner3.jpg",
           "link": "https://www.jurudolphbrand.com.br/blusa-cropped-livia-verde",
           "alt": "https://www.jurudolphbrand.com.br/blusa-cropped-livia-verde"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_7410.jpg",
+          "link": "https://wa.me/message/4NR3S5HTO5YYI1",
+          "mobile_img": "/img/uploads/img_7410.jpg"
         }
       ]
     },

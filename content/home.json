@@ -50,7 +50,7 @@
       "sort": "news",
       "title": "New in!",
       "headless": false,
-      "limit": 6,
+      "limit": 24,
       "page": 1
     },
     {

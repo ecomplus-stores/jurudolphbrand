@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "Horário de atendimento:",
-    "text": "Segunda a Sexta: 9h às 18h."
+    "title": "",
+    "text": ""
   },
   "links_1": {
     "list_pages": true,
@@ -14,7 +14,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Compre com  uma Personal Shopper através do Whatsapp:",
     "phone_wpp": true,
     "socials": true,
     "email": true,

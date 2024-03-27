@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.18f2863ab6ce6e8dd23247c7facdc554.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8afbd160dc8d9fc59f221f87c182d7aa.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.463ed86e9e2f8d6d31a48cf452df8f5e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0e24daa6819681d58953fde6b3f130fc.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.81866e196372f17a82dfa8274471adbd.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "jurudolphbrand",
+  "short_name": "jurudolphbrand",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "jurudolphbrand",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}

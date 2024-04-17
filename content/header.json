@@ -1,23 +1,24 @@
 {
-  "marketing_stripe": {
-    "text": "5% Off para pagamento realizados no PIX",
-    "link": "",
-    "background": "#ffffff",
-    "color": "#8e5305"
-  },
-  "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": true,
-    "socials": true
-  },
   "categories_list": {
     "featured": [],
     "random": 9,
     "full_width": true
   },
-  "desktop_megamenu": false,
-  "search_input": true,
+  "centralized_logo": true,
+  "marketing_stripe": {
+    "text": "5% Off para pagamento realizados no PIX",
+    "link": "",
+    "background": "#ffffff",
+    "color": "#040403"
+  },
   "alphabetical_order_submenu": false,
+  "popup": "/img/uploads/imagem_2022-11-07_153312685.png",
+  "search_input": true,
+  "desktop_megamenu": false,
   "full_width_submenu": false,
-  "centralized_logo": true
+  "contacts_stripe": {
+    "pages": [],
+    "phone_wpp": true,
+    "socials": true
+  }
 }

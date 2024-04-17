@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "5% Off para pagamento realizados no PIX",
     "link": "",
-    "background": "#f8bcb4",
-    "color": "#ffffff"
+    "background": "#ffffff",
+    "color": "#8e5305"
   },
   "contacts_stripe": {
     "pages": [],

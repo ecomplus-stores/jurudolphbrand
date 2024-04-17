@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/img_0731.jpg",
+          "mobile_img": "/img/uploads/img_0731.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/img_7527.jpg",
           "mobile_img": "/img/uploads/img_7527.jpg",
           "link": "https://www.jurudolphbrand.com.br/conjunto-flavia-em-alfaiataria-4d",
@@ -28,13 +34,7 @@
           "end": "",
           "img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
           "mobile_img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
-          "link": "https://www.jurudolphbrand.com.br/conjunto-leticia--pink"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img_0731.jpg",
-          "mobile_img": "/img/uploads/img_0731.jpg"
+          "link": "https://www.jurudolphbrand.com.br/vestido-camila--pink"
         }
       ]
     },

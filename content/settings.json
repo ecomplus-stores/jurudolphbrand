@@ -1,9 +1,9 @@
 {
   "domain": "www.jurudolphbrand.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#020000",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "cerulean",
     "custom": "_"
   },
   "bg_color": "#ffffff",

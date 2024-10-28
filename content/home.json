@@ -1,5 +1,5 @@
 {
-  "meta_title": "Reposição do mais desejado: Vestido Camila!",
+  "meta_title": "November Friday: Nossa Fashion Friday de 01 a 30 de Novembro com descontos imperdíveis!",
   "meta_description": "",
   "sections": [
     {
@@ -7,12 +7,6 @@
       "autoplay": 5000,
       "full_width": true,
       "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img_5297.jpg",
-          "mobile_img": "/img/uploads/img_5297.jpg"
-        },
         {
           "start": "",
           "end": "",
@@ -49,6 +43,12 @@
           "img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
           "mobile_img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
           "link": "https://www.jurudolphbrand.com.br/casaco-caroline---flores-pink"
+        },
+        {
+          "start": "2024-10-28T17:59:57.475Z",
+          "end": "2024-11-24T03:00:00.000Z",
+          "img": "/img/uploads/img_7671.jpg",
+          "mobile_img": "/img/uploads/img_7671.jpg"
         }
       ]
     },

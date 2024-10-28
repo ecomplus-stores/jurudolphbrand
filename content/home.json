@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/story-instagram-black-friday-banner-me-dio-formato-eua-horizontal-2.png",
+          "mobile_img": "/img/uploads/story-instagram-black-friday-banner-me-dio-formato-eua-horizontal-2.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/img_3456.jpg",
           "link": "https://www.jurudolphbrand.com.br/vestido",
           "mobile_img": "/img/uploads/img_3456.jpg"
@@ -43,12 +49,6 @@
           "img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
           "mobile_img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
           "link": "https://www.jurudolphbrand.com.br/casaco-caroline---flores-pink"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/story-instagram-black-friday-banner-me-dio-formato-eua-horizontal-2.png",
-          "mobile_img": "/img/uploads/story-instagram-black-friday-banner-me-dio-formato-eua-horizontal-2.png"
         }
       ]
     },

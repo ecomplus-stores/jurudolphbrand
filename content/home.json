@@ -64,7 +64,7 @@
       "sort": "views",
       "title": "Looks lindos com desconto!",
       "headless": false,
-      "limit": 24,
+      "limit": 10,
       "page": 1
     },
     {

@@ -58,14 +58,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "autoplay": 0,
+      "page": 1,
+      "title": "Para arrasar!!",
       "shuffle": true,
-      "collection_id": "65b29eae2cd6b6595912f4c8:categories:Fashion Friday:/sale",
-      "sort": "views",
-      "title": "Looks lindos com desconto!",
       "headless": false,
-      "limit": 10,
-      "page": 1
+      "type": "collection-shelf",
+      "limit": 4,
+      "collection_id": "667b2662f4e6d85ab2b8e1c6:categories:New in:/new-in",
+      "sort": "news"
     },
     {
       "type": "banners-grid",

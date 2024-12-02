@@ -1,5 +1,5 @@
 {
-  "meta_title": "Nossa Fashion Friday dia 28 a 30 de Novembro com descontos imperdíveis!",
+  "meta_title": "ÉPOCA DE CELEBRAR COM QUEM AMAMOS!!",
   "meta_description": "",
   "sections": [
     {
@@ -7,13 +7,6 @@
       "autoplay": 5000,
       "full_width": true,
       "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img_8575.jpg",
-          "mobile_img": "/img/uploads/img_8575.jpg",
-          "link": "https://www.jurudolphbrand.com.br/sale"
-        },
         {
           "start": "",
           "end": "",
@@ -50,6 +43,13 @@
           "img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
           "mobile_img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
           "link": "https://www.jurudolphbrand.com.br/casaco-caroline---flores-pink"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_0447.jpg",
+          "mobile_img": "/img/uploads/img_0447.jpg",
+          "link": "https://www.jurudolphbrand.com.br/new-in"
         }
       ]
     },

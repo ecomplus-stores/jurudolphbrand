@@ -758,6 +758,12 @@
     </url>
   
     <url>
+      <loc>https://www.jurudolphbrand.com.br/seasons</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.jurudolphbrand.com.br/jurudolphbrandblusa</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -824,19 +830,13 @@
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/seasons</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.jurudolphbrand.com.br/pages/duvidas-sobre-o-tamanho</loc>
+      <loc>https://www.jurudolphbrand.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/pages/contato</loc>
+      <loc>https://www.jurudolphbrand.com.br/pages/duvidas-sobre-o-tamanho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -848,13 +848,13 @@
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/pages/pagamentos</loc>
+      <loc>https://www.jurudolphbrand.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/pages/privacidade</loc>
+      <loc>https://www.jurudolphbrand.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

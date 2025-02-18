@@ -1,5 +1,5 @@
 {
-  "meta_title": "Sale for you!",
+  "meta_title": "Peças exclusivas!",
   "meta_description": "",
   "sections": [
     {
@@ -24,32 +24,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/img_3456.jpg",
-          "link": "https://www.jurudolphbrand.com.br/vestido",
-          "mobile_img": "/img/uploads/img_3456.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img_7527.jpg",
-          "mobile_img": "/img/uploads/img_7527.jpg",
-          "link": "https://www.jurudolphbrand.com.br/conjunto-flavia-em-alfaiataria-4d",
-          "alt": "https://www.jurudolphbrand.com.br/conjunto-flavia-em-alfaiataria-4d"
-        },
-        {
-          "start": "2022-11-02T04:24:41.743Z",
-          "end": "",
-          "img": "/img/uploads/img_9714.jpg",
-          "mobile_img": "/img/uploads/img_9714.jpg",
-          "link": "https://www.jurudolphbrand.com.br/conjunto-chiffon-lurex-sofia-verde-jade",
-          "alt": "https://www.jurudolphbrand.com.br/conjunto-chiffon-lurex-sofia-verde-jade"
-        },
-        {
-          "start": "2022-11-02T18:54:59.802Z",
-          "end": "",
-          "img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
-          "mobile_img": "/img/uploads/pink-modern-minimalist-fashion-company-profile-presentation.jpg",
-          "link": "https://www.jurudolphbrand.com.br/casaco-caroline---flores-pink"
+          "img": "/img/uploads/img_3098.jpg",
+          "link": "https://www.jurudolphbrand.com.br/conjunto",
+          "mobile_img": "/img/uploads/img_3098.jpg"
         }
       ]
     },

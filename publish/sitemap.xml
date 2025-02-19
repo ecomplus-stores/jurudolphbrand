@@ -758,6 +758,12 @@
     </url>
   
     <url>
+      <loc>https://www.jurudolphbrand.com.br/jaqueta-juli</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.jurudolphbrand.com.br/jurudolphbrandblusa</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -920,15 +926,15 @@
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.jurudolphbrand.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.jurudolphbrand.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>

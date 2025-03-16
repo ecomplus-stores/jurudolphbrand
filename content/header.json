@@ -11,7 +11,7 @@
     "background": "#ffffff",
     "color": "#040403"
   },
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "popup": "",
   "search_input": true,
   "desktop_megamenu": false,

@@ -1,7 +1,12 @@
 {
   "categories_list": {
-    "featured": [],
-    "random": 8,
+    "featured": [
+      "/new-in?New in",
+      "/jurudolphbrandblusa?Blusa",
+      "/vestido?Vestido",
+      "/ver-todos-os-produtos?Ver todos os produtos"
+    ],
+    "random": 0,
     "full_width": true
   },
   "centralized_logo": true,

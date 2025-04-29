@@ -68,12 +68,6 @@
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/seasons</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.jurudolphbrand.com.br/calca-liah</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -863,6 +857,12 @@
       <loc>https://www.jurudolphbrand.com.br/vestido-alice--preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.jurudolphbrand.com.br/seasons</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>

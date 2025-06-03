@@ -41,7 +41,7 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "limit": 4,
+      "limit": 9,
       "collection_id": "660454c50fc534303de215ec:categories:Ver todos os produtos:/ver-todos-os-produtos",
       "sort": "news"
     },

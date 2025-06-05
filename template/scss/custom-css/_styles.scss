@@ -3,6 +3,6 @@
 content: " via cartão em 10x sem juros";
 font-size: 12px;
 }
-.product-card__prices .prices__discount small:after {
-  content: ' (5% de desconto)'
+.product-card__prices .prices__discount {
+  display: none;
 }

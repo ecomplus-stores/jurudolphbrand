@@ -1022,6 +1022,12 @@
     </url>
   
     <url>
+      <loc>https://www.jurudolphbrand.com.br/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.jurudolphbrand.com.br/pages/duvidas-sobre-o-tamanho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1064,19 +1070,13 @@
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/pages/contato</loc>
+      <loc>https://www.jurudolphbrand.com.br/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.jurudolphbrand.com.br/posts/o-classico-nunca-sai-da-moda</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.jurudolphbrand.com.br/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

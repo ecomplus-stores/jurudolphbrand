@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil! Frete grátis para compras acima de R$1500,00!"
+    "text": "Frete grátis para compras acima de R$1500,00. Entregamos para todo o Brasil."
   },
   "installments": {
     "show": true,

@@ -1034,13 +1034,13 @@
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/pages/pagamentos</loc>
+      <loc>https://www.jurudolphbrand.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/pages/entrega</loc>
+      <loc>https://www.jurudolphbrand.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1064,13 +1064,13 @@
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/posts/o-classico-nunca-sai-da-moda</loc>
+      <loc>https://www.jurudolphbrand.com.br/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/posts/esta-loja-e-um-pwa</loc>
+      <loc>https://www.jurudolphbrand.com.br/posts/o-classico-nunca-sai-da-moda</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1088,15 +1088,15 @@
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.jurudolphbrand.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.jurudolphbrand.com.br/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>

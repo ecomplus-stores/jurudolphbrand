@@ -76,14 +76,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 4,
-      "page": 1,
-      "collection_id": null,
-      "sort": "sales",
+      "autoplay": 6000,
+      "page": 5,
       "title": "BEST-SELLERS",
-      "link": ""
+      "shuffle": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": 4,
+      "collection_id": null,
+      "sort": "sales"
     }
   ]
 }

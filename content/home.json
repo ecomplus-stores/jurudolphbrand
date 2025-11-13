@@ -10,29 +10,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/3.jpg",
-          "mobile_img": "/img/uploads/3.jpg",
-          "link": "https://www.jurudolphbrand.com.br/fleur-dete"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/1.jpg",
-          "mobile_img": "/img/uploads/1.jpg",
-          "link": "https://www.jurudolphbrand.com.br/727672"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/5.jpg",
-          "mobile_img": "/img/uploads/5.jpg",
-          "link": "https://www.jurudolphbrand.com.br/bride"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/3.png",
           "mobile_img": "/img/uploads/3.png",
+          "link": "https://www.jurudolphbrand.com.br/ver-todos-os-produtos"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/4.png",
+          "mobile_img": "/img/uploads/4.png",
           "link": "https://www.jurudolphbrand.com.br/ver-todos-os-produtos"
         }
       ]

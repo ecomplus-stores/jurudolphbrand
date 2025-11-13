@@ -1,5 +1,5 @@
 {
-  "meta_title": "Peças exclusivas!",
+  "meta_title": "Está chegando a Black November!",
   "meta_description": "",
   "sections": [
     {
@@ -27,6 +27,13 @@
           "img": "/img/uploads/5.jpg",
           "mobile_img": "/img/uploads/5.jpg",
           "link": "https://www.jurudolphbrand.com.br/bride"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/3.png",
+          "mobile_img": "/img/uploads/3.png",
+          "link": "https://www.jurudolphbrand.com.br/ver-todos-os-produtos"
         }
       ]
     },

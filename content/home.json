@@ -42,7 +42,7 @@
       "headless": false,
       "type": "collection-shelf",
       "limit": 9,
-      "collection_id": "667b2662f4e6d85ab2b8e1c6:categories:New in:/new-in",
+      "collection_id": "683b7df1578b5f79542d33ea:collections:Fleur D'éte:/fleur-dete",
       "sort": "news"
     },
     {
@@ -83,8 +83,8 @@
       "type": "collection-shelf",
       "link": "",
       "limit": 5,
-      "collection_id": "667b2662f4e6d85ab2b8e1c6:categories:New in:/new-in",
-      "sort": "lowest_price"
+      "collection_id": "660454c50fc534303de215ec:categories:Ver todos os produtos:/ver-todos-os-produtos",
+      "sort": "highest_price"
     }
   ]
 }

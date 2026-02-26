@@ -37,13 +37,13 @@
     {
       "autoplay": 6000,
       "page": 9,
-      "title": "BEST SELLERS",
+      "title": "ALFAIATARIA",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "limit": 9,
-      "collection_id": "683b7df1578b5f79542d33ea:collections:Fleur D'éte:/fleur-dete",
-      "sort": "news"
+      "collection_id": "60e9067bf8aba90b3a146d0e:categories:Vestido:/vestido",
+      "sort": "sales"
     },
     {
       "type": "banners-grid",

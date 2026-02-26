@@ -35,6 +35,16 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 9,
+      "page": 9,
+      "collection_id": "6176ffcb9bb4ce40f93ecf90:categories:Conjunto:/conjunto",
+      "sort": "sales",
+      "title": "BEST SELLER",
+      "autoplay": 6000
+    },
+    {
       "autoplay": 6000,
       "page": 9,
       "title": "ALFAIATARIA",

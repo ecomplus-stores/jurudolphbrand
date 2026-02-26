@@ -1,6 +1,6 @@
 {
   "meta_title": "Looks para seu verão e para seu inverno.",
-  "meta_description": "",
+  "meta_description": "Moda feminina autoral com peças sofisticadas, tecidos premium e design atemporal, criadas para mulheres que valorizam elegância, versatilidade e identidade no vestir.",
   "sections": [
     {
       "type": "banner-slider",
@@ -37,12 +37,12 @@
     {
       "autoplay": 6000,
       "page": 9,
-      "title": "Para arrasar!!",
+      "title": "BEST SELLERS",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "limit": 9,
-      "collection_id": "660454c50fc534303de215ec:categories:Ver todos os produtos:/ver-todos-os-produtos",
+      "collection_id": "683b7df1578b5f79542d33ea:collections:Fleur D'éte:/fleur-dete",
       "sort": "news"
     },
     {
@@ -78,13 +78,13 @@
     {
       "autoplay": 6000,
       "page": 5,
-      "title": "BEST-SELLERS",
+      "title": "DESCUBRA NOSSA SELEÇÃO",
       "shuffle": false,
       "type": "collection-shelf",
       "link": "",
       "limit": 5,
       "collection_id": null,
-      "sort": "sales"
+      "sort": "lowest_price"
     }
   ]
 }

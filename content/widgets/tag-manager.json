@@ -7,7 +7,7 @@
     "gtmContainerId": " GTM-MLS4TCDC",
     "dataLayerVar": "dataLayer",
     "partytown": false,
-    "isDebug": true
+    "isDebug": false
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"

@@ -1082,19 +1082,13 @@
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/pages/ju-rudolph-brand</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.jurudolphbrand.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.jurudolphbrand.com.br/pages/pagamentos</loc>
+      <loc>https://www.jurudolphbrand.com.br/pages/ju-rudolph-brand</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1107,6 +1101,12 @@
   
     <url>
       <loc>https://www.jurudolphbrand.com.br/pages/sobre-nos-1</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.jurudolphbrand.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

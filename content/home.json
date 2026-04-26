@@ -51,10 +51,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/vestidos.png",
-          "mobile_img": "/img/uploads/vestidos.png",
-          "link": "https://www.jurudolphbrand.com.br/vestido",
-          "alt": "https://www.jurudolphbrand.com.br/vestido"
+          "img": "/img/uploads/1.jpg",
+          "mobile_img": "/img/uploads/1.jpg",
+          "link": "https://www.jurudolphbrand.com.br/calca",
+          "alt": "https://www.jurudolphbrand.com.br/calca"
         },
         {
           "img": "/img/uploads/2.jpg",

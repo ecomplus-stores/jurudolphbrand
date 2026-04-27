@@ -30,8 +30,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 9,
-      "page": 9,
+      "limit": 16,
+      "page": 16,
       "collection_id": null,
       "sort": "sales",
       "title": "BEST SELLER",

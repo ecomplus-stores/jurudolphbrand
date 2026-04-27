@@ -87,12 +87,12 @@
     },
     {
       "autoplay": 6000,
-      "page": 16,
+      "page": 10,
       "title": "DESCUBRA NOSSA SELEÇÃO",
       "shuffle": false,
       "type": "collection-shelf",
       "link": "",
-      "limit": 16,
+      "limit": 10,
       "collection_id": "660454c50fc534303de215ec:categories:Ver todos os produtos:/ver-todos-os-produtos",
       "sort": "highest_price"
     }

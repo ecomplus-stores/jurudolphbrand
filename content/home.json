@@ -31,7 +31,7 @@
       "shuffle": true,
       "limit": 9,
       "page": 9,
-      "collection_id": "6176ffcb9bb4ce40f93ecf90:categories:Conjunto:/conjunto",
+      "collection_id": null,
       "sort": "sales",
       "title": "BEST SELLER",
       "autoplay": 6000

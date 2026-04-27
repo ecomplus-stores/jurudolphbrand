@@ -8,7 +8,7 @@
       "type": "product-block",
       "enabled": true,
       "size_guide": {
-        "image": "",
+        "image": "/img/uploads/img_0148.jpg",
         "title": ""
       }
     },
@@ -18,7 +18,7 @@
     },
     {
       "type": "product-specifications",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "recommended-products",

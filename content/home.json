@@ -73,19 +73,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner.jpg",
-          "mobile_img": "/img/uploads/banner.jpg"
-        }
-      ]
-    },
-    {
       "autoplay": 6000,
       "page": 10,
       "title": "DESCUBRA NOSSA SELEÇÃO",

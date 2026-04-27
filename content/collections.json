@@ -1,6 +1,14 @@
 {
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Je te donne de L'amour"
+    },
+    {
       "type": "document-banner",
       "enabled": true
     },
@@ -12,14 +20,6 @@
       "type": "collection-retail",
       "enabled": true,
       "sort": "news"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "page-title",
-      "title": "Je te donne de L'amour"
     }
   ]
 }

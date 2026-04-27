@@ -1,29 +1,11 @@
 {
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/new-collection-2.jpg",
-          "mobile_img": "/img/uploads/new-collection-2.jpg",
-          "link": "https://www.jurudolphbrand.com.br/je-te-donne-de-lamour"
-        }
-      ]
-    },
-    {
-      "type": "breadcrumbs",
+      "type": "document-banner",
       "enabled": true
     },
     {
-      "type": "page-title",
-      "title": "Je te donne de L'amour"
-    },
-    {
-      "type": "document-banner",
+      "type": "document-description",
       "enabled": true
     },
     {
@@ -32,8 +14,12 @@
       "sort": "news"
     },
     {
-      "type": "document-description",
+      "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Je te donne de L'amour"
     }
   ]
 }
